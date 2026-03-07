@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Joylin!;Student;Tech+Explorer;)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=800&lines=Hello,+I+am+Joylin+Mathias,+a+student+and+tech+explorer.&repeat=false)   
 ![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)    
 
 
