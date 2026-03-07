@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=Hello,+I'm+Joylin+Mathias&repeat=false)
-
-### A student and tech learner
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=Hello,+I'm+Joylin+Mathias;A+student+and+tech+learner&repeat=false)
 
 </p>
 
