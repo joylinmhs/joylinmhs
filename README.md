@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&width=900&lines=Hello,+I'm+Joylin+Mathias&repeat=false" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=Hello,+I'm+Joylin+Mathias;A+student+and+tech+learner&repeat=false)
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&width=900&lines=A+student+•+Tech+learner&repeat=false" />
 
-</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)    
 
