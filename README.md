@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=800&lines=Hello,+I+am+Joylin+Mathias,+a+student+and+tech+explorer.&repeat=false)   
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=900&lines=Hello,+I+am+Joylin+Mathias;A+student+and+tech+learner.&repeat=false)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)    
 
 
