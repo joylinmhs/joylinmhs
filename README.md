@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)    
-![](https://komarev.com/ghpvc/?username=joylinmhs&color=blue)
+
 
 
