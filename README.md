@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=30&width=900&lines=Hello,+I'm+Joylin+Mathias&repeat=false&pause=1000" />
 <br/>
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&width=900&lines=A+student+•+Tech+learner&repeat=false&pause=2500" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&width=900&lines=Student+•+Tech+learner&repeat=false&pause=2500" />
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)    
