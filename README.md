@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)    
+![Profile Views](https://komarev.com/ghpvc/?username=joylinmhs&color=blue)
 
 
 
