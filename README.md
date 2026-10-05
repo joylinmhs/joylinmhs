@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!--![GitHub Streak](https://streak-stats.demolab.com?user=joylinmhs&theme=radical)   -->
-<table>
+<!--<table>
 <tr>
 <td>
 
@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 
 </td>
 </tr>
-</table>
+</table>-->
+<img align="right" src="cat.png" width="220">
+
+<img src="https://streak-stats.demolab.com?user=joylinmhs&theme=radical" width="600">
 
 
 
