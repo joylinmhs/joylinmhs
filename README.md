@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <img src="https://streak-stats.demolab.com?user=joylinmhs&theme=radical" width="600"> 
 <!--<img align="right" src="cat.png" width="180">
-
 <img src="https://streak-stats.demolab.com?user=joylinmhs&theme=radical" width="520"> -->
+
 
 
 
