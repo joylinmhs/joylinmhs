@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>-->
-<img align="right" src="cat.png" width="180">
+<img align="right" src="cat.png" width="120">
 
-<img src="https://streak-stats.demolab.com?user=joylinmhs&theme=radical" width="520">
+<img src="https://streak-stats.demolab.com?user=joylinmhs&theme=radical" width="500">
 
 
 
