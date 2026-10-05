@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>-->
-<img align="right" src="cat.png" width="160">
+<img align="right" src="cat.png" width="200">
 
 <img src="https://streak-stats.demolab.com?user=joylinmhs&theme=radical" width="600">
 
